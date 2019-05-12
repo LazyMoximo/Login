@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f939a87883ea4ddd41476e207405129b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\4b0038edc38429ae2f5ea5ae312b1138\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\45d5e17d451c6c9e58b2dfe02ccc0a6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\78992b3162da433401a50f84cb398179\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\0a69a4563ada3b503cfcb89eacc75921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6cd5008b2f35a45b95701ccabcdfb8ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\95f3c954b6dec431d65ce1e3b5231571\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\03f281a09b57b4ef74bfd54f31b4f5b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\fbd0e0de2429a34acd9ad3697ebbfef6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\30dd6e2a3e5640ba1fd4d80ec7aa57b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a24e9e27d7dfc6b1b46bf2c54917a9f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\93730990f2e1ba1712d4d49be7f99676\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\341b00e0a36836273801b037fa61a35a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\b22e61e26f3304378cb5a4405414e252\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\caab955c82653d9adf47ae6c41e56587\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a0803173644b6f0cb526f7409f793d10\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f18a09f20514db68b02fdf1d9ab7772\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f44fb8d642bed08e45d991a371fef80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\c9f610c341c6927a9e1794092cd90e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\044103dbe008ad0a6cf461fb1a900cf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\ce6a5ced985c06362191cf16d584c7b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f1f8bc7bfbcbf4bb78a3b0f64b898f72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\929666aedbf0ca9686da13180fd65d94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cb86b5e4e8f765667eb589ff8625cd15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cc5ab7228d9a0273a67e24cad625f2e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\46f687e3a0a24b028c81ba6aa9ea0992\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\4b0038edc38429ae2f5ea5ae312b1138\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\4b0038edc38429ae2f5ea5ae312b1138\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a0803173644b6f0cb526f7409f793d10\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a0803173644b6f0cb526f7409f793d10\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ultimologin.MainActivity
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f939a87883ea4ddd41476e207405129b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f939a87883ea4ddd41476e207405129b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\4b0038edc38429ae2f5ea5ae312b1138\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\4b0038edc38429ae2f5ea5ae312b1138\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\45d5e17d451c6c9e58b2dfe02ccc0a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\45d5e17d451c6c9e58b2dfe02ccc0a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\78992b3162da433401a50f84cb398179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\78992b3162da433401a50f84cb398179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\0a69a4563ada3b503cfcb89eacc75921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\0a69a4563ada3b503cfcb89eacc75921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6cd5008b2f35a45b95701ccabcdfb8ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6cd5008b2f35a45b95701ccabcdfb8ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\95f3c954b6dec431d65ce1e3b5231571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\95f3c954b6dec431d65ce1e3b5231571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\03f281a09b57b4ef74bfd54f31b4f5b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\03f281a09b57b4ef74bfd54f31b4f5b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\fbd0e0de2429a34acd9ad3697ebbfef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\fbd0e0de2429a34acd9ad3697ebbfef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\30dd6e2a3e5640ba1fd4d80ec7aa57b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\30dd6e2a3e5640ba1fd4d80ec7aa57b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a24e9e27d7dfc6b1b46bf2c54917a9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a24e9e27d7dfc6b1b46bf2c54917a9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\93730990f2e1ba1712d4d49be7f99676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\93730990f2e1ba1712d4d49be7f99676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\341b00e0a36836273801b037fa61a35a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\341b00e0a36836273801b037fa61a35a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\b22e61e26f3304378cb5a4405414e252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\b22e61e26f3304378cb5a4405414e252\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\caab955c82653d9adf47ae6c41e56587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\caab955c82653d9adf47ae6c41e56587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\9f06f6a4cfa28e7644607cf0ee53ba5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a0803173644b6f0cb526f7409f793d10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\a0803173644b6f0cb526f7409f793d10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f18a09f20514db68b02fdf1d9ab7772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f18a09f20514db68b02fdf1d9ab7772\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f44fb8d642bed08e45d991a371fef80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\6f44fb8d642bed08e45d991a371fef80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\c9f610c341c6927a9e1794092cd90e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\c9f610c341c6927a9e1794092cd90e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\044103dbe008ad0a6cf461fb1a900cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\044103dbe008ad0a6cf461fb1a900cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\ce6a5ced985c06362191cf16d584c7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\ce6a5ced985c06362191cf16d584c7b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f1f8bc7bfbcbf4bb78a3b0f64b898f72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\f1f8bc7bfbcbf4bb78a3b0f64b898f72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\929666aedbf0ca9686da13180fd65d94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\929666aedbf0ca9686da13180fd65d94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cb86b5e4e8f765667eb589ff8625cd15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cb86b5e4e8f765667eb589ff8625cd15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cc5ab7228d9a0273a67e24cad625f2e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\cc5ab7228d9a0273a67e24cad625f2e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\46f687e3a0a24b028c81ba6aa9ea0992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Moximom\.gradle\caches\transforms-2\files-2.1\46f687e3a0a24b028c81ba6aa9ea0992\AndroidManifest.xml:20:5-44
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		ADDED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ejercicios\Login\app\src\main\AndroidManifest.xml
